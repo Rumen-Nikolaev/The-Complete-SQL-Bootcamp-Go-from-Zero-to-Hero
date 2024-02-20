@@ -3,3 +3,7 @@ SELECT DISTINCT FROM film;
 SELECT DISTINCT release_year FROM film;
 
 SELECT DISTINCT(rental_rate) FROM film;
+
+Challenge: SELECT DISTINCT
+
+SELECT DISTINCT rating FROM film;
