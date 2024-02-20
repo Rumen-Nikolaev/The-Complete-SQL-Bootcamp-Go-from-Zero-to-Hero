@@ -35,3 +35,15 @@ WHERE rating != 'R';
 /* ******************************************
 The fifth query retrieves all films from the film table where the rating is not 'R'.
 *********************************************/
+
+Challenge: SELECT WHERE
+	
+SELECT email FROM customer
+WHERE first_name = 'Nancy'
+AND last_name = 'Thomas';
+
+SELECT description FROM film
+WHERE title = 'Outlaw Hanky';
+
+SELECT phone FROM address
+WHERE address = '259 Ipoh Drive';
